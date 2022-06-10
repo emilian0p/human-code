@@ -27,15 +27,18 @@ per il resto dovrebbero bastarmi i contanti che ho in portafogli, sempre se non 
 - scendo dalla macchina
 - prendo il carrello
 - entro nel supermercato
-- cerco informazioni sulle corsie 
-- percorro le corsie cercando i prodotti della lista e li metto nel carrello !
+- cerco informazioni sulle corsie
+- per prima cosa cerco le crocchette di Ricky
+- se ci sono le prendo e vado avanti
+    -altrimenti cambio supermercato
+- percorro le corsie cercando i prodotti della lista e li metto nel carrello
 - segno i prodotti che ho preso nella lista
 
-- verifico di aver preso tutto e soprattutto le crocchette di Ricky
+- verifico di aver preso tutto
     -se ho preso tutto
         - vado a pagare
     - altrimenti 
-        - continuo a girare per il supermercato
+        - percorro le corsie cercando i prodotti della lista e li metto nel carrello 
 
 - davanti alla cassa mi ricordo il coupon
 
