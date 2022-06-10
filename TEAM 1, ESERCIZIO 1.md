@@ -9,9 +9,12 @@ posso verificare di aver preso tutto e Ricky non rimane senza crocchette come lâ
 per il resto dovrebbero bastarmi i contanti che ho in portafogli, sempre se non mi faccio prendere la mano con gli snack extra! 
 
 - apri il frigo noti carenza di viveri
-- prendo carta e penna
-- valuto cosa mi serve per la settimana
+- se mancano cose in frigo
+    - prendo carta e penna
+- altrimenti
+    - non faccio nulla
 
+- valuto cosa mi serve per la settimana
 - se manca il prodotto
     - lo aggiundo alla lista
 - altrimenti
@@ -19,6 +22,8 @@ per il resto dovrebbero bastarmi i contanti che ho in portafogli, sempre se non 
 
 - se ho finito di annotare tutto quello che manca 
     - cerco il coupon per il supermercato
+- altrimenti
+    - ricontrollo i prodotti da aggiungere alla lista
 
 - mi preparo per uscire e andare a fare la spesa
 - scendo le scale e salgo in macchina
@@ -50,6 +55,9 @@ per il resto dovrebbero bastarmi i contanti che ho in portafogli, sempre se non 
             - pago con la carta
         - altrimenti
             - scappo
+
+- se abbiamo speso meno del previsto
+    - vado a prendere anche delle patatine e ripeto la procedura alla cassa
 
 - metto la spesa nella busta
 - esco dal supermercato
